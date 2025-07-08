@@ -5,7 +5,7 @@
 
 
 ```
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -31,11 +31,11 @@ AIFFEL_quest_cr
 .
 .
 └── GoingDeeper
-    ├── GD01
+    ├── Go01
     .
     .
     .
-    └── GD18
+    └── Go18
         ├── .ipynb
         └── README.md
 ```
