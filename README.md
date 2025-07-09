@@ -35,7 +35,7 @@ AIFFEL_quest_rs
     .
     .
     .
-    └── Go18
+    └── Go09
         ├── .ipynb
         └── README.md
 ```
