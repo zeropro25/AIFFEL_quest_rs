@@ -36,7 +36,7 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인  
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부  
 
-    ![회고 예시](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/Exploration/Ex07/pictures/%D0%A1%D0%9D%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-19%20172836.png)
+    ![회고 예시](https://github.com/averksuu/AIFFEL_quest_rs_7/blob/master/Exploration/Ex07/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-19%20172836.png)
 
 - [x] **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인  
